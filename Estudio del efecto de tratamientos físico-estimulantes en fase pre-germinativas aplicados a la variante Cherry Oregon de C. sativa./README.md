@@ -18,3 +18,9 @@ de Cannabis sativa L. mediante la caracterización de propiedades morfológicas.
 
 ## Metodología 
 
+> Calibración del Láser
+
+<img src="Imagen1s.png" alt="Fig 1. Esquema del irradiador láser." width="400">
+
+![Fig 1. Esquema del irradiador láser.](Imagen1s.png)
+
