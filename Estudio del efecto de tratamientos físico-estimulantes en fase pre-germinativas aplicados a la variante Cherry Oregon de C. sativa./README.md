@@ -20,7 +20,27 @@ de Cannabis sativa L. mediante la caracterización de propiedades morfológicas.
 
 > Calibración del Láser
 
-<img src="Imagen1s.png" alt="Fig 1. Esquema del irradiador láser." width="400">
+<img src="Imagen_1s.png" alt="Fig 1. Esquema del irradiador láser." width="400">
 
-![Fig 1. Esquema del irradiador láser.](Imagen1s.png)
+> Aplicación de los tratamientos de irradiación
 
+Para esta investigación preliminar se utilizó una cantidad total 60 semillas de la variedad Cherry Oregon de Cannabis sativa L, a las cuales a 45 de ellas se les aplicó nueve tratamientos centrados en variar el tiempo de exposición (10, 15 y 20 minutos) y las aplicaciones del tratamiento (1, 2 y 3 días) utilizando una fuente de fotones de longitud de onda monocromática (633 nm) provenientes de un láser He-Ne calibrado a una potencia entre 29 - 32 \mu W. En la figura 2 se resume la cantidad de energía brindada a las semillas, llegando a proporcionar desde 18 mJ (10 minutos), 27 mJ (15 minutos) y 39 mJ (20 minutos) por cada aplicación, teniendo hasta una exposición máxima en el último grupo de irradiación de 60 minutos, equivalentes aproximadamente a 117 mJ.
+
+<img src="Imagen_2.png" alt="Fig 2. Gráfica de irradiancia vs tiempo de aplicación de los distintos tratamientos." width="400">
+
+En la figura 3 se muestra el proceso de aplicación de los distintos tratamientos a las semillas en un área de irradiación de 36.3 cm².
+
+<img src="Imagen_3.jpg" alt="Fig 3. Aplicación de los diferente tratamientos láser." width="400">
+
+## RESULTADOS
+
+
+- Las semillas que recibieron los tratamientos presentan un desarrollo morfológico acelerado.
+  
+- Al medir los tamaños de las plántulas a la tercera semana (figura 4) con la herramienta ImageJ podemos resaltar como la plántula de control tuvo una altura de 4.799 cm, estando en un estado de desarrollo 1004 según el código decimal \cite{E}; a diferencia de su contraparte que recibió el tratamiento de 20 minutos en tres aplicaciones, llegando a poseer una altura de 9.748 cm y un estado de desarrollo 1006.
+  
+- A la quinta semana (figura 5) la diferencia se vuelve cada vez más sobresaliente, debido a que la plántula de control llegó a una altura de 11.741 cm y un estado de desarrollo 1006. Por su parte la plántula irradiada tuvo una altura de 23.254 cm y un estado de desarrollo 1012, superando la plántula de control al doble de su tamaño y al doble de hojas verdaderas presentes.
+    
+| ![Izquierda](imagen_izquierda.jpg) | ![Derecha](imagen_derecha.jpg) |
+|-------------------------------------|-------------------------------------|
+| **Fig. 4** Evolución a la 3ra semana | **Fig. 5** Evolución a la 5ta semana |
