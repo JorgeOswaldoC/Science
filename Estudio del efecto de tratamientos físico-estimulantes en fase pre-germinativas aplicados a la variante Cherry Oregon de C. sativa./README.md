@@ -58,3 +58,4 @@ Esta investigación desarrollada pone a prueba por primera vez el impacto de la 
 ## Conclusiones
 
 El estudio evaluó el efecto de tratamientos de irradiación láser (He-Ne) sobre el crecimiento de la variante Cherry Oregon de Cannabis sativa. Aunque los resultados mostraron un desarrollo morfológico acelerado en las plantas irradiadas, el análisis estadístico ANOVA solamente encontró diferencias significativas en el tratamiento 7 en comparación con el grupo de control. Esto sugiere que, bajo las condiciones de este experimento, la mayoría de tratamientos no generaron un impacto significativo en el crecimiento de las plantas, sin embargo la estimulación láser de 10 minutos en aplicaciones por 3 días seguidos provocó una aceleración morfológica significativa en la plántula.
+
